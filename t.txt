@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/cra-template-typekit
+https://www.npmjs.com/package/cra-template-unicorn
+https://www.npmjs.com/package/cra-template-veraclins
